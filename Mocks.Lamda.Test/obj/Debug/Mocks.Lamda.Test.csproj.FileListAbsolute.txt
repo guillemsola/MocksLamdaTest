@@ -1,0 +1,11 @@
+C:\Users\guillem\Documents\Visual Studio 2010\Projects\Mocks.Lamda.Test\Mocks.Lamda.Test\bin\Debug\Mocks.Lamda.Test.dll
+C:\Users\guillem\Documents\Visual Studio 2010\Projects\Mocks.Lamda.Test\Mocks.Lamda.Test\bin\Debug\Mocks.Lamda.Test.pdb
+C:\Users\guillem\Documents\Visual Studio 2010\Projects\Mocks.Lamda.Test\Mocks.Lamda.Test\bin\Debug\Moq.dll
+C:\Users\guillem\Documents\Visual Studio 2010\Projects\Mocks.Lamda.Test\Mocks.Lamda.Test\bin\Debug\nunit.framework.dll
+C:\Users\guillem\Documents\Visual Studio 2010\Projects\Mocks.Lamda.Test\Mocks.Lamda.Test\bin\Debug\Rhino.Mocks.dll
+C:\Users\guillem\Documents\Visual Studio 2010\Projects\Mocks.Lamda.Test\Mocks.Lamda.Test\bin\Debug\Moq.xml
+C:\Users\guillem\Documents\Visual Studio 2010\Projects\Mocks.Lamda.Test\Mocks.Lamda.Test\bin\Debug\nunit.framework.xml
+C:\Users\guillem\Documents\Visual Studio 2010\Projects\Mocks.Lamda.Test\Mocks.Lamda.Test\bin\Debug\Rhino.Mocks.xml
+C:\Users\guillem\Documents\Visual Studio 2010\Projects\Mocks.Lamda.Test\Mocks.Lamda.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guillem\Documents\Visual Studio 2010\Projects\Mocks.Lamda.Test\Mocks.Lamda.Test\obj\Debug\Mocks.Lamda.Test.dll
+C:\Users\guillem\Documents\Visual Studio 2010\Projects\Mocks.Lamda.Test\Mocks.Lamda.Test\obj\Debug\Mocks.Lamda.Test.pdb
